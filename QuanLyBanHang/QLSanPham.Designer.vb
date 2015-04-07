@@ -129,9 +129,9 @@ Partial Class QLSanPham
         Me.Label3.AutoSize = True
         Me.Label3.Location = New System.Drawing.Point(42, 95)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(25, 13)
+        Me.Label3.Size = New System.Drawing.Size(26, 13)
         Me.Label3.TabIndex = 9
-        Me.Label3.Text = "Mã "
+        Me.Label3.Text = "Giá:"
         '
         'TextBox4
         '
@@ -145,9 +145,9 @@ Partial Class QLSanPham
         Me.Label4.AutoSize = True
         Me.Label4.Location = New System.Drawing.Point(42, 121)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(25, 13)
+        Me.Label4.Size = New System.Drawing.Size(49, 13)
         Me.Label4.TabIndex = 11
-        Me.Label4.Text = "Mã "
+        Me.Label4.Text = "Số lượng"
         '
         'TextBox5
         '
